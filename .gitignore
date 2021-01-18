@@ -1,0 +1,14 @@
+# prerequisites
+*.d
+
+# object files
+./**/*.o
+./**/*.ko
+./**/*.obj
+./**/*.elf
+
+# executables
+*.exe
+*.out
+*.app
+
