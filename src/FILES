@@ -1,0 +1,6 @@
+main.c		- int main() calling U_UnchessMain()
+
+----------------------------------------------------------------
+UNCHESS game loop (game/)
+----------------------------------------------------------------
+u_main.c	- event handling, U_UnchessMain()
